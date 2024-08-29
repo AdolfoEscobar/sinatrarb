@@ -33,6 +33,6 @@ El proyecto depende de las siguientes gemas:
 Estas gemas están listadas en el archivo Gemfile:
 source 'https://rubygems.org'
 
-- gem 'sinatra', '-> 4.0'
-- gem 'rack', '-> 3.1'
+- gem 'sinatra', '~> 4.0'
+- gem 'rack', '~> 3.1'
 - gem 'rackup'
