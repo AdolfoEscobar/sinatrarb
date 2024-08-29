@@ -9,19 +9,19 @@ Instalación:
    ```bash
    git clone git@github.com:AdolfoEscobar/sinatrarb.git
    cd sinatrarb
-   bash```
+   ```
 
 3. Instala las gemas:
    Este proyecto utiliza Bundler para gestionar las gemas. Asegúrate de tener Bundler instalado y luego ejecuta:
    ```bash
    bundle install
-   bash```
+   ```
 
 Uso:
 Para iniciar el servidor y ver la aplicación en funcionamiento, usa el siguiente comando:
    ```bash
    bundle exec rackup -p 4001
-   bash```
+   ```
 Esto iniciará el servidor en el puerto 4001. Puedes acceder a la aplicación abriendo un navegador y navegando a http://localhost:4001.
 
 Lista de Gemas:
